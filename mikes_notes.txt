@@ -1,0 +1,3 @@
+NetworkX is pretty fast, should be fine for Monte-Carlo runs. Plotting all those lines in MatPlotLib however is very slow.
+
+I'll consider setting up plotting in PyGame if we need fast animations later on.
